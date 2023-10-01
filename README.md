@@ -1,2 +1,2 @@
 # Mr.-Jayendra
-skills Java ,c++,html
+skill-c++,htm,Data science,ml 
